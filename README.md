@@ -4,4 +4,3 @@ Design and implement an Intrusion Detection System (IDS) for SCADA networks usin
 ![IDS_ELK_SCADA](https://github.com/user-attachments/assets/8b92b6c5-6be7-4e9a-9cf3-89c87160a53f)
 
 
-https://we.tl/t-lLFfycrGBz
